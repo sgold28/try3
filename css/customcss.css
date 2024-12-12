@@ -1,0 +1,11 @@
+body { 
+    background-color: beige;
+}
+h1{
+    text-align: center;
+text-decoration: wavy;
+}
+h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.video{
+    padding-left: 40%;
+}
